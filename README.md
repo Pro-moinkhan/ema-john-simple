@@ -1,5 +1,5 @@
 ### `Live site link:` 
-## https://pro-moinkhan.github.io/ema-john-simple/
+## https://nifty-benz-69435d.netlify.app/
 
 
 # Getting Started with Create React App
