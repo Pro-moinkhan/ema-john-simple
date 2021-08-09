@@ -1,0 +1,11 @@
+.ReviewItmDiv{
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}    
+.RevItmDiv{
+    max-width: 500px;
+    min-height: 200px;
+    border-bottom: 2px solid lightgray;
+}
